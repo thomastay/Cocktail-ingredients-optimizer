@@ -10,6 +10,8 @@ This script depends on two files - cocktails_list.csv, and price_list.csv. In co
 
 # Usage 
 
+You can use the cocktails_list.csv file I've provided, but bear in mind that I've only included alcoholic ingredients. The data I've used comes from reddit. Link: https://reddit.com/r/cocktails Special Credits to /u/hebug.
+
 Just run the Python script "Cocktails.py", and what the program does is that it will write one additional file to the folder: cocktailsILP.data
 
 The program will pause here. DON'T CLOSE IT!
