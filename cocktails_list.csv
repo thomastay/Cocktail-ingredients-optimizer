@@ -1,3 +1,4 @@
+Cocktail,Ingredient
 151 Swizzle,Absinthe
 151 Swizzle,Bitters [Angostura]
 151 Swizzle,Rum [Lemonhart]
@@ -16,11 +17,11 @@ Afonso de Albuquerque,Whiskey [Rye]
 Airmail,Rhum [Agricole]
 Airmail,Rum [Cuban Dark]
 Airmail,Sparkling Wine
-Alaska,Chartreuse [Yellow]
-Alaska,Gin [London]
-Alaska (w Orange Bitters),Bitters [Orange]
 Alaska (w Orange Bitters),Chartreuse [Yellow]
 Alaska (w Orange Bitters),Gin [London]
+Alaska (w Orange Bitters),Bitters [Orange]
+Alaska,Chartreuse [Yellow]
+Alaska,Gin [London]
 Alexander,Brandy [Cognac]
 Alexander,Crème de Cacao
 Algonquin,Vermouth [Dry]
@@ -59,7 +60,7 @@ Barracuda,Sparkling Wine
 Battle of New Orleans,Absinthe
 Battle of New Orleans,Bitters [Orange]
 Battle of New Orleans,Bitters [Peychaud's]
-Battle of New Orleans,Whiskey [Rye]
+Battle of New Orleans,Whiskey [Bourbon]
 Bee’s Knees,Gin [London]
 Between the Sheets,Brandy [Cognac]
 Between the Sheets,Cointreau
@@ -75,11 +76,11 @@ Bitter End,Campari
 Bitter End,IPA
 Bizzy Izzy,Bitters [Angostura]
 Bizzy Izzy,Sherry
-Bizzy Izzy,Whiskey [Rye]
+Bizzy Izzy,Whiskey [Bourbon]
 Black & Tan,Whiskey [Rye]
 Black Manhattan,Averna
 Black Manhattan,Bitters [Angostura]
-Black Manhattan,Whiskey [Rye]
+Black Manhattan,Whiskey [Bourbon]
 Block & Fall,Absinthe
 Block & Fall,Brandy [Apple]
 Block & Fall,Brandy [Cognac]
@@ -93,15 +94,15 @@ Bobby Burns,Scotch [Blended]
 Bobby Burns,Vermouth [Sweet]
 Boulevardier (v Bourbon),Brandy [Apple]
 Boulevardier (v Bourbon),Vermouth [Sweet]
-Boulevardier (v Bourbon),Whiskey [Rye]
+Boulevardier (v Bourbon),Whiskey [Bourbon]
 Boulevardier (v Rye),Brandy [Apple]
 Boulevardier (v Rye),Vermouth [Sweet]
 Boulevardier (v Rye),Whiskey [Rye]
 Bourbon Sour,Bitters [Angostura]
-Bourbon Sour,Whiskey [Rye]
-Bramble,Blackberry liqueur
+Bourbon Sour,Whiskey [Bourbon]
 Bramble,Crème de Cassis
 Bramble,Gin [London]
+Bramble,Blackberry liqueur
 Bramble,Gin [London]
 Brass Rail,Bénédictine
 Brass Rail,Bitters [Orange]
@@ -110,7 +111,7 @@ Bronco Buster (v Hebug),Brandy [Apple]
 Bronco Buster (v Hebug),Cointreau
 Bronco Buster (v Hebug),Whiskey [Rye]
 Bronco Buster (v SR),Brandy [Apple]
-Bronco Buster (v SR),Cointreau
+Bronco Buster (v SR),Orange Curaçao
 Bronco Buster (v SR),Whiskey [Rye]
 Bronx & Income Tax,Bitters [Angostura]
 Bronx & Income Tax,Gin [London]
@@ -126,7 +127,7 @@ Brooklyn (v u/bitcheslovebanjos),China China
 Brooklyn (v u/bitcheslovebanjos),Maraschino Liquor
 Brooklyn (v u/bitcheslovebanjos),Vermouth [Dry]
 Brooklyn (v u/bitcheslovebanjos),Whiskey [Rye]
-Brown Derby,Whiskey [Rye]
+Brown Derby,Whiskey [Bourbon]
 Bumbo,Rum [Aged]
 Caipirinha,Cachaca
 Californie Palace,Chartreuse [Green]
@@ -172,8 +173,7 @@ Cock N’ Bull Special,Bénédictine
 Cock N’ Bull Special,Bitters [Angostura]
 Cock N’ Bull Special,Brandy [Cognac]
 Cock N’ Bull Special,Cointreau
-Cock N’ Bull Special,Whiskey [Rye]
-Cocktail,Ingredient
+Cock N’ Bull Special,Whiskey [Bourbon]
 Cocktail a la Lousiane (classic),Absinthe
 Cocktail a la Lousiane (classic),Bénédictine
 Cocktail a la Lousiane (classic),Bitters [Peychaud's]
@@ -194,7 +194,7 @@ Conference,Bitters [Angostura]
 Conference,Bitters [Bittermen's Xocolatl Mole]
 Conference,Brandy [Apple]
 Conference,Brandy [Cognac]
-Conference,Whiskey [Rye]
+Conference,Whiskey [Bourbon]
 Conference,Whiskey [Rye]
 Corn N’ Oil,Bitters [Angostura]
 Corn N’ Oil,Syrup [Falernum]
@@ -222,6 +222,7 @@ Crescent City,Bitters [Angostura]
 Crescent City,Rum [Jamaican Dark]
 Crescent City,Vermouth [Sweet]
 Cuba Libre,Rum [Jamaican Dark]
+Daiquiri,Rum [Cuban White]
 Daiquiri,Rum [Cuban White]
 Daisy de Santiago,Chartreuse [Yellow]
 Daisy de Santiago,Rum [Cuban White]
@@ -295,13 +296,13 @@ God Mother,Amaretto
 God Mother,Vodka
 Godfather (v Bourbon),Amaretto
 Godfather (v Bourbon),Bitters [Angostura]
-Godfather (v Bourbon),Whiskey [Rye]
+Godfather (v Bourbon),Whiskey [Bourbon]
 Godfather (v Scotch),Amaretto
 Godfather (v Scotch),Scotch [Blended]
 Golden Beautiful,Blanco Tequila
 Golden Beautiful,Campari
-Golden Dream,Cointreau
 Golden Dream,Galliano
+Golden Dream,Cointreau
 Grasshopper,Crème de Cacao
 Grasshopper,Crème de Menthe
 Greenback,Absinthe
@@ -407,7 +408,7 @@ Jungle Bird,Campari
 Jungle Bird,Rum [Jamaican Dark]
 Kamikaze,Cointreau
 Kamikaze,Vodka
-Kentucky Buck,Whiskey [Rye]
+Kentucky Buck,Whiskey [Bourbon]
 Kingston Negroni,Campari
 Kingston Negroni,Rum [Smith & Cross]
 Kingston Negroni,Vermouth [Antica Formula]
@@ -425,7 +426,7 @@ Lemon Drop Martini,Cointreau
 Lemon Drop Martini,Lemon Vodka
 Lion’s Tail,Allspice Dram
 Lion’s Tail,Bitters [Angostura]
-Lion’s Tail,Whiskey [Rye]
+Lion’s Tail,Whiskey [Bourbon]
 Little Miss Annabelle,Bénédictine
 Little Miss Annabelle,Bitters [Peychaud's]
 Little Miss Annabelle,Brandy [Cognac]
@@ -434,11 +435,11 @@ Long Island Iced Tea (v Anvil),Blanco Tequila
 Long Island Iced Tea (v Anvil),Gin [Old Tom]
 Long Island Iced Tea (v Anvil),Rhum [Agricole]
 Long Island Iced Tea (v Anvil),Vermouth [Sweet]
+Long Island Iced Tea (v IBA),Gin [London]
 Long Island Iced Tea (v IBA),Blanco Tequila
 Long Island Iced Tea (v IBA),Cointreau
-Long Island Iced Tea (v IBA),Gin [London]
-Long Island Iced Tea (v IBA),Rum [Cuban White]
 Long Island Iced Tea (v IBA),Vodka
+Long Island Iced Tea (v IBA),Rum [Cuban White]
 Lucien Gaudin,Campari
 Lucien Gaudin,Cointreau
 Lucien Gaudin,Gin [London]
@@ -458,7 +459,7 @@ Manhattan,Vermouth [Sweet]
 Manhattan,Vermouth [Sweet]
 Manhattan,Whiskey [Rye]
 Manhattan,Whiskey [Rye]
-Maple Leaf,Whiskey [Rye]
+Maple Leaf,Whiskey [Bourbon]
 Margarita,Blanco Tequila
 Margarita,Cointreau
 Martinez (v Ango),Bitters [Angostura]
@@ -472,24 +473,24 @@ Martinez (v Boker's),Vermouth [Sweet]
 Martini,Gin [London]
 Martini,Vermouth [Dry]
 Mary Pickford,Maraschino Liquor
+Mary Pickford,Rum [Cuban White]
+Mary Pickford,Syrup [Grenadine]
 Mary Pickford,Maraschino Liquor
-Mary Pickford,Rum [Cuban White]
-Mary Pickford,Rum [Cuban White]
 Mary Pickford,Syrup [Grenadine]
-Mary Pickford,Syrup [Grenadine]
+Mary Pickford,Rum [Cuban White]
 Melon Stand,Aperol
 Melon Stand,Gin [London]
 Mexican Firing Squad Special,Bitters [Angostura]
 Mexican Firing Squad Special,Blanco Tequila
 Mexican Firing Squad Special,Syrup [Grenadine]
 Milk Punch,Brandy [Cognac]
-Milk Punch,Whiskey [Rye]
+Milk Punch,Whiskey [Bourbon]
 Millionaire,Brandy [Apricot]
 Millionaire,Gin [Sloe]
 Millionaire,Rum [Jamaican Dark]
 Millionaire,Syrup [Grenadine]
-Mimosa,Sparkling Wine
-Mint Julep,Whiskey [Rye]
+Mimosa,Champagne
+Mint Julep,Whiskey [Bourbon]
 Mojito,Rum [Cuban White]
 Monkey Gland,Absinthe
 Monkey Gland,Gin [London]
@@ -515,10 +516,12 @@ Navy Grog,Rum [Jamaican Gold]
 Negroni,Campari
 Negroni,Gin [London]
 Negroni,Vermouth [Sweet]
-New York Sour,Whiskey [Rye]
 New York Sour,Wine [Red]
-Old Fashioned,Whiskey [Rye]
-Old Fashioned,Bitters [Angostura]
+New York Sour,Whiskey [Bourbon]
+Old Fashioned (Bourbon),Bitters [Angostura]
+Old Fashioned (Bourbon),Whiskey [Bourbon]
+Old Fashioned (Rye),Bitters [Angostura]
+Old Fashioned (Rye),Whiskey [Rye]
 Old Fashioned (Scotch),Bitters [Angostura]
 Old Fashioned (Scotch),Scotch [Blended]
 Old Ironsides,Amaretto
@@ -535,10 +538,10 @@ Pamplemousse,Gin [London]
 Pamplemousse,St. Germain
 Paper Airplane,Amaro Nonino Quintessentia
 Paper Airplane,Campari
-Paper Airplane,Whiskey [Rye]
+Paper Airplane,Whiskey [Bourbon]
 Paper Plane,Amaro Nonino Quintessentia
 Paper Plane,Aperol
-Paper Plane,Whiskey [Rye]
+Paper Plane,Whiskey [Bourbon]
 Paradise,Bitters [Angostura]
 Paradise,Brandy [Apricot]
 Paradise,Gin [London]
@@ -637,7 +640,7 @@ Seelbach,Bitters [Angostura]
 Seelbach,Bitters [Peychaud's]
 Seelbach,Cointreau
 Seelbach,Sparkling Wine
-Seelbach,Whiskey [Rye]
+Seelbach,Whiskey [Bourbon]
 Sex On The Beach,Peach schnapps
 Sex On The Beach,Vodka
 Shaddock,Aperol
@@ -674,7 +677,7 @@ Stinger,Brandy [Cognac]
 Stinger,Crème de Menthe
 Suffering Bastard,Bitters [Angostura]
 Suffering Bastard,Gin [London]
-Suffering Bastard,Whiskey [Rye]
+Suffering Bastard,Whiskey [Bourbon]
 Sunrise,Blanco Tequila
 Sunrise,Crème de Cassis
 Sunrise,Syrup [Grenadine]
@@ -689,7 +692,7 @@ Tequila Sunrise,Blanco Tequila
 The Other Left,Campari
 The Other Left,Coffee Liqueur
 The Other Left,Vermouth [Sweet]
-The Other Left,Whiskey [Rye]
+The Other Left,Whiskey [Bourbon]
 The Schnozzle,Absinthe
 The Schnozzle,Gin [London]
 The Schnozzle,Sherry
@@ -722,7 +725,7 @@ Twelve Mile Limit (v Haigh),Syrup [Grenadine]
 Twelve Mile Limit (v Haigh),Whiskey [Rye]
 Vampiro,Tequila (silver)
 Vasco de Gama,Scotch [Islay]
-Vasco de Gama,Whiskey [Rye]
+Vasco de Gama,Whiskey [Bourbon]
 Vesper,Gin [London]
 Vesper,Lillet Blanc
 Vesper,Vodka
