@@ -66,18 +66,20 @@ FINAL PROGRAM OUTPUT
 
 Cocktails_list.csv is formatted like this:
 
+~~~~
 Cocktail1 | Ingredient 1
 Cocktail1 | Ingredient 2
 Cocktail2 | Ingredient 1
 Cocktail2 | Ingredient 2
 Cocktail2 | Ingredient 3
-
+~~~~
 Basically, two columns only. The program will do the compilation automatically.
 
 Price_list.csv is formatted like this:
-
+~~~~
 Ingredient 1 | Price 1
 Ingredient 2 | Price 2
+~~~~
 
 # Future improvements
 
