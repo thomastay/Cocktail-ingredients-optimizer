@@ -79,6 +79,6 @@ Price_list.csv is formatted like this:
 Ingredient 1 | Price 1
 Ingredient 2 | Price 2
 
-#Future improvements
+# Future improvements
 
 If I've got the time, I will try to work on an interface between Python and GLPK. Building my own ILP solver will take too much time so I'd really rather not.
