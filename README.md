@@ -19,7 +19,9 @@ The program will pause here. DON'T CLOSE IT!
 Next, you have to install GLPK. GLPK is a free program that is the backbone of the optimization program. GLPK stands for the GNU Linear Programming Kit, and for those interested, it is capable of solving Integer Linear Programming problems, which I'm making use of here.
 
 Open command prompt in your folder, and run the following line of code:
-> glpsol.exe -m --model cocktailsILP.model --data cocktailsILP.data > output.txt. This writes the output of GLPK to a file called "output.txt". 
+> glpsol.exe -m --model cocktailsILP.model --data cocktailsILP.data > output.txt. 
+
+This writes the output of GLPK to a file called "output.txt". 
 
 Then, you need to copy the output of the GLPK file back to python. Copy everthing from "Display statement at Line 26", and paste it into the python script.
 
@@ -27,6 +29,7 @@ The script will interpret the GLPK result and present a solution.
 
 ## Example output of the program
 
+~~~~
 ======================
 FINAL PROGRAM OUTPUT
 ======================
@@ -57,6 +60,7 @@ FINAL PROGRAM OUTPUT
     14. Margarita
     15. Royal Smile
     16. Savoy Tango
+~~~~
 
 # Formatting
 
