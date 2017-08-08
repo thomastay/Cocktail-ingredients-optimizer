@@ -1,0 +1,31 @@
+# number of meals
+param m;
+# number of ingredients
+param n;
+#number of bottles allowed
+param bottles;
+#total budget
+param budget;
+
+#problem data
+param p {i in 1..n};
+param A {i in 1..m, j in 1..n};
+
+#declare variables 
+var x { i in 1..n} binary;
+var y {i in 1..m} binary;
+# objective
+
+maximize Total_drinks: sum{i in 1..m} y[i];
+
+s.t.
+total_price: (sum{i in 1..n} p[i]*x[i]) <= budget;
+bot_ing_match {i in 1..m, j in 1..n}: A[i,j]*y[i] <= x[j];
+
+solve;
+display x;
+display y;
+display Total_drinks;
+
+end;
+
