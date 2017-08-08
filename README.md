@@ -10,7 +10,9 @@ This script depends on two files - cocktails_list.csv, and price_list.csv. In co
 
 # Usage 
 
-You can use the cocktails_list.csv file I've provided, but bear in mind that I've only included alcoholic ingredients. The data I've used comes from reddit. Link: https://reddit.com/r/cocktails Special Credits to /u/hebug.
+You can use the cocktails_list.csv file I've provided, but bear in mind that I've only included alcoholic ingredients. The data I've used comes from reddit. Link: https://reddit.com/r/cocktails.
+
+Special Credits to /u/hebug.
 
 Just run the Python script "Cocktails.py", and what the program does is that it will write one additional file to the folder: cocktailsILP.data
 
@@ -19,11 +21,11 @@ The program will pause here. DON'T CLOSE IT!
 Next, you have to install GLPK. GLPK is a free program that is the backbone of the optimization program. GLPK stands for the GNU Linear Programming Kit, and for those interested, it is capable of solving Integer Linear Programming problems, which I'm making use of here.
 
 Open command prompt in your folder, and run the following line of code:
-> glpsol.exe -m --model cocktailsILP.model --data cocktailsILP.data > output.txt. 
+> glpsol.exe -m --model cocktailsILP.model --data cocktailsILP.data > output.txt
 
 This writes the output of GLPK to a file called "output.txt". 
 
-Then, you need to copy the output of the GLPK file back to python. Copy everthing from "Display statement at Line 26", and paste it into the python script.
+Then, you need to copy the output of the GLPK file back to python. Copy everything from "Display statement at Line 26", and paste it into the python script.
 
 The script will interpret the GLPK result and present a solution.
 
